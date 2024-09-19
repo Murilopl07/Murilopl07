@@ -1,6 +1,6 @@
-- 👋 oi, eu sou @Murilopl07
+- 👋 oi, eu sou @Murilo Paz da Luz e sou técnico em IOT(Internet das coisas)
 - 👀 estou em interessado em estágio na área de backend
-- 🌱 estou aprendendo programação análise de sistemas Python
+- 🌱 tenho como foco programação de circuitos microcontrolados
 - 💞️ Eu procuro trabalhar como desenvolvedor de software na área de análise de dados
 - 📫 Gmail: murilopazluz@gmail.com | Instagram: @murilopazdaluz
 
