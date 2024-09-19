@@ -1,5 +1,5 @@
 - 👋 oi, eu sou @Murilo Paz da Luz e sou técnico em IOT(Internet das coisas)
-- 👀 estou em interessado em estágio
+- 👀 estou buscando oportunidades de estágio
 - 🌱 tenho como foco programação de circuitos microcontrolados
 - 💞️ Eu procuro trabalhar como desenvolvedor de software na área de análise de dados
 - 📫 Gmail: murilopazluz@gmail.com | Instagram: @murilopazdaluz
