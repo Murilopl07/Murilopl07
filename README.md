@@ -6,4 +6,4 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilopl07&show_icons=true&theme=midnight-purple)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
