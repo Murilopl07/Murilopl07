@@ -5,5 +5,5 @@
 - 📫 Gmail: murilopazluz@gmail.com | Instagram: @murilopazdaluz
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilopl07&show_icons=true&theme=midnight-purple&locale=pt)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Murilopl07&show_icons=true&theme=midnight-purple&locale=pt-br)
+
