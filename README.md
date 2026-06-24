@@ -1,4 +1,4 @@
-## Olá, me chamo Murilo Paz da Luz e sou Técnico em IOT
+## Olá, me chamo Murilo Paz da Luz, sou Engenheiro da Computação, Técnico em IoT e Automação Industrial
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
